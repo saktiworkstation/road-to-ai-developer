@@ -1,0 +1,3 @@
+### Perjalanan saya
+
+# Dasar Python
