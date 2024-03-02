@@ -16,3 +16,14 @@ y = ("orange",)
 thistuple += y
 
 print(thistuple)
+
+print('- remove items')
+thistuple = ('orange', 'banana', 'cherry')
+y = list(thistuple)
+y.remove('orange')
+thistuple = tuple(y)
+print(thistuple)
+
+thistuple = ("apple", "banana", "cherry")
+del thistuple
+print(thistuple)
