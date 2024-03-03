@@ -8,4 +8,4 @@ Dunia kecerdasan buatan terus berkembang pesat, dan menjadi seorang AI Developer
 
 ## Struktur Repositori
 
-1. **Python tutorial** : Berisikan file proyek kecil berisi code python yang saya pelajari
+1. **Python tutorial : Learn From W3SCHOOL** : Berisikan file proyek kecil berisi code python yang saya pelajari
