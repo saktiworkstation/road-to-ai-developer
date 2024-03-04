@@ -53,7 +53,7 @@ if not a > b:
 
 print('- Nested If')
 x = 41
-if X > 10:
+if x > 10:
     print('above ten, ')
     if x > 20:
         print('and also above 20!')
