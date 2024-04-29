@@ -1,0 +1,8 @@
+Ide berasal dari : Sakti Kusuma Aji
+Dibangun bersama denagn Chat GPT OpenAI 
+Promt yang digunakan :
+Buatlah algoritma genetika dalam generate menu makanan sehat 
+Buatkan codingnya saja tanpa penjelasan, berikan data menu makanan indonesia yang diperlukan sebanyak 20 lengkap dengan kandungan gizi, protein, mineral, gula, dan lain sebagainya
+Buat system dengan logika berikut :
+- user menginputkan berat badan dan tinggi badan
+- system menentukan dan mengenerate menu makan sehat agar berat dan tinggi user lebih proporsional dalam 1 minggu kedepan
